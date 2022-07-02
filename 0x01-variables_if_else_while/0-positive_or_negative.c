@@ -3,8 +3,8 @@
 #include <time.h>
 /* more headers goes there */
 
-/*
- * betty style doc for function is here
+/**
+ * main - Checks if the number generated is positive or negative
  */
 int main(void)
 {
