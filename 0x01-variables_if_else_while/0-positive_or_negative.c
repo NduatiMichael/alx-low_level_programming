@@ -5,6 +5,8 @@
 
 /**
  * main - Checks if the number generated is positive or negative
+ *
+ * Return: if the number is positive,zero or negative
  */
 int main(void)
 {
