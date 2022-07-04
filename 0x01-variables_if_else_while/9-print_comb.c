@@ -8,12 +8,15 @@ int main(void)
 {
 	int counter = 0;
 
-	for (counter = 0; counter < 9; counter++)
+	for (counter = 0; counter <= 9; counter++)
 	{
 		putchar(counter + '0');
-		putchar(',');
-		putchar(' ');
+		if (counter != 9)
+		{
+			putchar(',');
+			putchar(' ');
+		}
 	}
-	putchar('9');
+	putchar('\n');
 	return (0);
 }
