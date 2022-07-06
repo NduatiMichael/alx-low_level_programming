@@ -4,7 +4,7 @@
 /**
  *_abs - Prints the absolute value of an input
  *
- *@int: the number to check
+ *@n: the number to check
  * Return: absolute
  */
 int _abs(int n)
