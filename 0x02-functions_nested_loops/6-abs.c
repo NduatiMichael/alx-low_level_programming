@@ -7,13 +7,13 @@
  *@int: the number to check
  * Return: absolute
  */
-int _abs(int)
+int _abs(int n)
 {
 	int absolute;
 
-	if (int > 0)
+	if (n > 0)
 	{
-		absolute = int;
+		absolute = n;
 	}
 	else if (n == 0)
 	{
@@ -21,7 +21,7 @@ int _abs(int)
 	}
 	else
 	{
-		absolute = int * -1;
+		absolute = n * -1;
 	}
 	return (absolute);
 }
