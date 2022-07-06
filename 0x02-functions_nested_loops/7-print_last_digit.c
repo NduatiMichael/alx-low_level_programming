@@ -13,3 +13,4 @@ int print_last_digit(int n)
 	lastDigit = n % 10;
 	return (lastDigit);
 }
+#endif
