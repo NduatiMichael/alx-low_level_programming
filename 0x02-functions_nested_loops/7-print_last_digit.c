@@ -1,5 +1,5 @@
 #ifndef HEADER_FILE
-#definr HEADER_FILE
+#define HEADER_FILE
 #include "main.h"
 /**
  *print_last_digit - Prints the last digit in  a number
