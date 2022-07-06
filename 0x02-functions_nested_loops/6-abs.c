@@ -7,7 +7,7 @@
  *@int: the number to check
  * Return: absolute
  */
-int _abs(int);
+int _abs(int)
 {
 	int absolute;
 
