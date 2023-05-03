@@ -1,4 +1,7 @@
-General
+**General**
+This Repository contains the exercises for the ALX loe level programming section.
+
+**What to learn:**
 Why C programming is awesome (don’t forget to tweet today, with the hashtag #cisfun :))
 Who invented C
 Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
@@ -12,7 +15,8 @@ What is the default program name when compiling with gcc
 What is the official Holberton C coding style and how to check your code with betty-style
 How to find the right header to include in your source code when using a standard library function
 How does the main function influence the return value of the program
-Requirements C
+
+**Requirements**
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 14.04 LTS using gcc 4.8.4
 Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
